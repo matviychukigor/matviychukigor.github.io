@@ -56,7 +56,7 @@ window.addEventListener('DOMContentLoaded', function() {
 
     //Таймер бухача
 
-    const buhachDeadLine = '2020-12-28';
+    const buhachDeadLine = '2020-12-28T11:00:00';
 
     setClock('.buhach__timer', buhachDeadLine);
 });
